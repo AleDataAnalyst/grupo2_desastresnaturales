@@ -1,0 +1,1 @@
+01ParaLimpiar: Copia del anterior (00desastres_crudo.csv en 01CrudoNoEditar) que no debe haber sido manipulada. En este limpiaremos valores nulos, borraremos columnas y filas, etc. Guardaremos el archivo tras haberlo manipulado como 02desastres_cleaned en la carpeta 02Limpio.
