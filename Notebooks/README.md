@@ -1,5 +1,5 @@
 Organizar carpetas según procesos.
-Dentro de cada proceso hay una carpeta propia con tu nombre para trabajar.
+Consensuar si cada persona del grupo hará parte en cada proceso, en cuyo caso, sería necesario crear una carpeta personal dentro de cada proceso (por decidir).
 SIEMPRE verificar que te encuentras en tu carpeta.
 Usar prefijos de números 00, 01 para ordenar proceso según metodología lógica de avance.
 IMPORTANTE! Lee el README.md en Data.
