@@ -1,0 +1,12 @@
+https://docs.google.com/document/d/1u-Bc7BwjTZDMGYuz7_9cuEotrYjYct1kZ6lY7UndsCA/edit?usp=sharing
+
+Producto final: Un Dashboard para diferentes tipos de usuarios para conocer más sobre situaciones de emergencia por desastres naturales
+
+Objetivo: Crear un tablero en Power BI para diferentes audiencias objetivo involucradas en actividades relacionadas con desastres, utilizando varias visualizaciones para proporcionar información y conocimientos relevantes.
+
+Propuestas para cada página de audiencia específica:
+
+1) Tablero 1: Público general y familiares
+2) Tablero 2: Coordinación de profesionales de rescate y ONGs sobre terreno
+3) Tablero 3: Periodistas que investigan sobre un desastre natural y buscar extraer información confiable:
+4) Tablero 4: Administración e Instituciones Internacionales para gestión de riesgos y manejo estratégico de dinero y recursos:
