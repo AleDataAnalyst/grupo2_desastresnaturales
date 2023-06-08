@@ -1,0 +1,25 @@
+https://www.kaggle.com/datasets/tr1gg3rtrash/global-disaster-risk-index-time-series-dataset
+
+About Dataset
+The WorldRiskReport is an annual technical report on global disaster risks. The yearly issues of the WorldRiskReport focus on varying critical topics related to disaster risk management and are published in German and English. The report includes the WorldRiskIndex, which identifies the risk of an extreme natural event becoming a disaster for numerous countries worldwide.
+
+The WorldRiskIndex uses 27 aggregated, publicly available indicators to determine disaster risk for 181 countries worldwide. Conceptually, the index is composed of exposure to extreme natural hazards and the societal vulnerability of individual countries. Earthquakes, cyclones, floods, droughts, and climate-induced sea-level rise are considered in the exposure analysis. Societal vulnerability is divided into susceptibility to extreme natural events, lack of coping capacities, and lack of adaptive capacities. All index components are scaled to the value range from 0 to 100. The higher a country's index score on the WorldRiskIndex, the higher its national disaster risk.
+
+The dataset consists of 11 years data of multiple countries with features including:
+
+Region
+WRI
+Exposure
+Vulnerability
+Susceptibility
+Lack of Coping Capabilities
+Lack of Adaptive Capabilities
+Year
+WRI Category
+Exposure Category
+Vulnerability Category
+Susceptibility Category
+
+
+Acknowledgment
+This Dataset is created from https://weltrisikobericht.de/weltrisikobericht-2021-e/. If you want to learn more, you can visit the Website.
