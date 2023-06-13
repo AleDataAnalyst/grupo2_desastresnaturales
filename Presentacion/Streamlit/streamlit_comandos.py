@@ -1,7 +1,9 @@
 # Streamlit para crear app de presentación de gráficas online
 # https://daniellewisdl-streamlit-cheat-sheet-app-ytm9sg.streamlit.app/
 
-# Instalar: 
+# Instalar:
+# $ pip install streamlit
+# Importar
 import streamlit as st
 
 # Magic commands implicitly `st.write()`
