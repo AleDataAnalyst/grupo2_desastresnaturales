@@ -10,3 +10,8 @@ mysql-connector-python
 sqlalchemy
 ydata-profiling
 fastcluster
+geopy
+folium
+plotly
+scikit-learn
+streamlit
