@@ -14,4 +14,9 @@ geopy
 folium
 plotly
 scikit-learn
-streamlit
+streamlit # presentación app web
+# basados en tutorial para rellenar valores faltantes
+pyjanitor
+pyreadr
+session-info
+upsetplot
