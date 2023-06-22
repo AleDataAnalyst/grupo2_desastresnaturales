@@ -3,7 +3,7 @@ Subgrupos de desastres naturales reportados:
  'Biological' 'Extra-terrestrial']
 Conteo de subgrupos:
 
- Hydrological         6612
+Hydrological         6612
 Meteorological       5235
 Geophysical          1912
 Biological           1614
