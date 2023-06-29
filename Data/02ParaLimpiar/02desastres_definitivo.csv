@@ -9,8 +9,7 @@ Dis No;Year;Seq;Disaster Subgroup;Disaster Type;Disaster Subtype;Country;ISO;Reg
 1904-0003-BGD;1904;3;Meteorological;Storm;Tropical cyclone;Bangladesh;BGD;Southern Asia;Asia;Chittagong;;;;Kph;;;1904;11;;1904;11;;;;
 1905-0005-CAN;1905;5;Geophysical;Mass movement (dry);Rockfall;Canada;CAN;Northern America;Americas;Spence's Bridge, British Columbia;;;;;;;1905;8;13;1905;8;13;18.0;18.0;
 1905-0003-IND;1905;3;Geophysical;Earthquake;Ground movement;India;IND;Southern Asia;Asia;Kangra;;;8.0;Richter;32.04;76.16;1905;4;4;1905;4;4;20000.0;;812477.0
-1906-0014-CHL;1906;14;Geophysical;Earthquake;Ground movement;Chile;CHL;South America;Americas;Valparaiso;;Tsunami/Tidal wave;8.0;Richter;33.05;71.4;1906;8;16;1906;8;16;20000.0;;3249907.0
-1906-0002-COL;1906;2;Geophysical;Earthquake;Ground movement;Colombia;COL;South America;Americas;Tumako;;Tsunami/Tidal wave;9.0;Richter;1.51 N;78.46 W;1906;1;31;1906;1;31;400.0;;
+1906-0002-COL;1906;2;Geophysical;Earthquake;Ground movement;Colombia;COL;South America;Americas;Tumako;;Tsunami/Tidal wave;9.0;Richter;1.51 ;- 78.46 ;1906;1;31;1906;1;31;400.0;;
 1906-0023-BEL;1906;23;Hydrological;Flood;;Belgium;BEL;Western Europe;Europe;Louvain region;;;;Km2;;;1906;5;14;1906;5;14;6.0;;
 1906-0024-BEL;1906;24;Hydrological;Flood;;Belgium;BEL;Western Europe;Europe;;;;;Km2;;;1906;4;;1906;4;;;;
 1906-0015-HKG;1906;15;Meteorological;Storm;Tropical cyclone;Hong Kong;HKG;Eastern Asia;Asia;;;;;Kph;;;1906;9;8;1906;9;8;10000.0;;649981.0
@@ -81,7 +80,7 @@ Dis No;Year;Seq;Disaster Subgroup;Disaster Type;Disaster Subtype;Country;ISO;Reg
 1926-0013-COL;1926;13;Hydrological;Landslide;Landslide;Colombia;COL;South America;Americas;Pereira;;;;;;;1926;11;5;1926;11;5;100.0;;
 1926-0012-CUB;1926;12;Meteorological;Storm;Tropical cyclone;Cuba;CUB;Caribbean;Americas;Havana and suburbs;;;;Kph;;;1926;10;20;1926;10;20;600.0;;
 1926-0006-DFR;1926;6;Hydrological;Flood;;Germany Fed Rep;DFR;Western Europe;Europe;Rhine area;;;;Km2;;;1926;6;;1926;6;;;;511311.0
-1926-0014-EGY;1926;14;Geophysical;Earthquake;Ground movement;Egypt;EGY;Northern Africa;Africa;Basse-Egypte;;;;Richter;30.03 N;31.15 E;1926;6;26;1926;6;26;12.0;;
+1926-0014-EGY;1926;14;Geophysical;Earthquake;Ground movement;Egypt;EGY;Northern Africa;Africa;Basse-Egypte;;;;Richter;30.03 ;31.15 ;1926;6;26;1926;6;26;12.0;;
 1926-0020-FRA;1926;20;Hydrological;Landslide;Mudslide;France;FRA;Western Europe;Europe;Roquebilli�re (Alpes-Maritimes);;;;;;;1926;11;24;1926;11;24;28.0;;
 1926-0008-IND;1926;8;Hydrological;Flood;Riverine flood;India;IND;Southern Asia;Asia;Bengal;;;;Km2;;;1926;7;19;1926;7;19;;;
 1926-0001-IND;1926;1;Biological;Epidemic;Viral disease;India;IND;Southern Asia;Asia;;;;;Vaccinated;;;1926;;;1926;;;423000.0;;
